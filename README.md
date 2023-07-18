@@ -1,4 +1,4 @@
-# Womakers Code - Projeto final front-end
+# Womakers Code - Projeto final front-end 🦋
 
 Projeto final do curso Programação Web para Iniciantes com foco em front-end da Womakers Code
 
