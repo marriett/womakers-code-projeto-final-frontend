@@ -149,7 +149,7 @@ body {
     border-radius: 5px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 560px) {
     .profile_name {
         font-size: 32px;
     }
